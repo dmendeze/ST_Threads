@@ -50,7 +50,7 @@ int main(void) {
 	arguments[1].inBuffer = buffers[1];
 	arguments[1].outBuffer = buffers[2];
 
-	//The only differnce here is that threads[2]
+	//The only difference here is that threads[2]
 	//  will print out the buffer, so it will
 	//  not be writing to another buffer like in
 	//  the prior threads.
