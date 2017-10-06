@@ -1,7 +1,5 @@
 /**********************************/
-/*         Daniel Estrada         */
-/*                                */
-/*  Honor Pledge: Daniel Estrada  */
+/*    Written by Daniel Estrada   */
 /**********************************/
 
 #include <stdio.h>
